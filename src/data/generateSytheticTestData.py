@@ -9,7 +9,7 @@ import src.util.Util as Util
 
 # Function to translate a list of texts using Microsoft Translator Text API
 def translate_texts(texts, to_lang):
-    subscription_key = 'f00ef25f1d2041b7896bb0793aa4744f'  # Replace with your subscription key
+    subscription_key = ''  # Replace with your subscription key
     endpoint = 'https://api.cognitive.microsofttranslator.com/'
     path = '/translate?api-version=3.0'
     params = {
