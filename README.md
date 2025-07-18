@@ -143,7 +143,6 @@ If you use **Ex‑Claim**, please cite:
 
 For questions or suggestions, open an issue or contact:
 
-**Rruba Panchendrarajan** – r.panchendrarajan@qmul.ac.uk  
-GitHub: [@RubaP](https://github.com/RubaP)
+**Rrubaa Panchendrarajan** – r.panchendrarajan@qmul.ac.uk  
 
 ---
